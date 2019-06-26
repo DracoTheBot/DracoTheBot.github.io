@@ -1,0 +1,27 @@
+.centered{
+  text-align: center;
+}
+.large{
+  font-size: large;
+}
+.small{
+  font-size: small;
+}
+@media (min-width: 600px){
+  background-color: red;
+}
+@media (max-width: 599px){
+  background-color: blue;
+}
+.organize{
+  border: 10px solid #d60606;
+  border-collapse: collapse;
+  text-align: center;
+}
+#down{
+  margin-top:50px;
+}
+.background{
+  background-color: seagreen;
+}
+
